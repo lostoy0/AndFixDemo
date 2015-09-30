@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/pre-dexed/release/classes-f91f4c3da5ae87ecbcdd246a88dc2161c20676e1.jar" />
+    </item>
+    <item
+        jar="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/pre-dexed/release/classes-20ddde1892eb700ff6901f3f634c755904d50987.jar" />
+    </item>
+    <item
+        jar="/Users/MLS/Development/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-2a79b6819f9979c099b554b4e03a63ad81299737.jar" />
+    </item>
+    <item
+        jar="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/exploded-aar/com.alipay.euler/andfix/0.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1de293ae438f1031f515cb12dd8dfeb011f554c0">
+        <dex dex="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/pre-dexed/release/classes-53d06dd6b8b98fd143d6b6410d2ac94357a7960c.jar" />
+    </item>
+    <item
+        jar="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/MLS/Development/Projects/simpledemos/AndFixDemo/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-18621777fbafbd857292ec73a500acd00b2f0df0.jar" />
+    </item>
+
+</items>
