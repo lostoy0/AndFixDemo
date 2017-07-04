@@ -123,6 +123,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
 		Log.d("lost", "patch file: " + patchFile);
 		if(new File(patchFile).exists()) {
 			showToast("patch file: " + patchFile);
+		} else {
+			showToast("patch file not exists!!!");
 		}
 		AndFixManager.getInstance().addPatch(patchFile);
 	}
